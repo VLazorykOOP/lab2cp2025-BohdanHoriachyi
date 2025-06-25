@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\simulationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:simulationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:winformsapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\mainfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:mainfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\mainfom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:mainfom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\mainfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:mainfom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\simulationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:simulationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\simulationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:simulationform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|c:\\users\\gorac\\source\\repos\\lab2cp2025-bohdanhoriachyi\\winformsapp1\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC8862A1-DB6E-4188-A420-C894391DD4B8}|WinFormsApp1.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1.csproj",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\WinFormsApp1.csproj",
+              "RelativeToolTip": "WinFormsApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T20:48:24.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvwkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:44:45.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAUwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:44:22.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationForm.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\SimulationForm.cs",
+              "RelativeDocumentMoniker": "SimulationForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\SimulationForm.cs",
+              "RelativeToolTip": "SimulationForm.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:40:20.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SimulationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\SimulationForm.Designer.cs",
+              "RelativeDocumentMoniker": "SimulationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\SimulationForm.Designer.cs",
+              "RelativeToolTip": "SimulationForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:40:12.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimulationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\SimulationForm.cs",
+              "RelativeDocumentMoniker": "SimulationForm.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\SimulationForm.cs [Design]",
+              "RelativeToolTip": "SimulationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:40:08.047Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainFom.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\MainFom.cs",
+              "RelativeDocumentMoniker": "MainFom.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\MainFom.cs",
+              "RelativeToolTip": "MainFom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:14:47.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainFom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\MainFom.Designer.cs",
+              "RelativeDocumentMoniker": "MainFom.Designer.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\MainFom.Designer.cs",
+              "RelativeToolTip": "MainFom.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:14:40.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainFom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\MainFom.cs",
+              "RelativeDocumentMoniker": "MainFom.cs",
+              "ToolTip": "C:\\Users\\gorac\\source\\repos\\lab2cp2025-BohdanHoriachyi\\WinFormsApp1\\MainFom.cs [Design]",
+              "RelativeToolTip": "MainFom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:14:27.91Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
